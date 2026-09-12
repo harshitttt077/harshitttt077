@@ -20,8 +20,6 @@ Building systems that survive past the demo — autonomous agentic RAG architect
 ▸ **[BidForge](https://github.com/harshitttt077/BidForge)** · Enterprise proposal synthesis studio eliminating LLM table and metric hallucination via deterministic 3-phase assembly (Strategy Profiler, Red-Team evaluators, and parallel prose/JSON schema streaming).<br/>
 ▸ **[Notforgotten](https://github.com/harshitttt077/Notforgotten)** · Cognitive spaced-repetition engine pairing LangGraph cyclical agents with Ebbinghaus memory decay curves (SM-2) and custom HybridRetriever (α·semantic + (1-α)·urgency) over ChromaDB.<br/>
 ▸ **[Recto](https://github.com/harshitttt077/Recto)** · High-throughput candidate ranking engine filtering 100k+ profiles across a 5-stage pipeline (hard-kill heuristic pruning, CV trap suppression, behavioral weighting, and batched Gemini 2.5 Flash semantic re-ranking).<br/>
-▸ **CNCF & Linux Foundation Contributor** · Merged core PRs across [IntelOwl](https://github.com/intelowlproject/IntelOwl) (OSINT data models & schema validation), [FOSSology](https://github.com/fossology/fossology) (SPDX compliance & license validation APIs), [Headlamp](https://github.com/headlamp-k8s/headlamp) (Kubernetes security configurations), and [Meshery](https://github.com/meshery/meshery) (service mesh UI).<br/>
-▸ **Smart India Hackathon (SIH 2026)** · Architecting scalable fullstack prototypes for national-tier civic infrastructure systems.<br/>
 
 <br/>
 
