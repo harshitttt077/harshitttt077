@@ -13,7 +13,7 @@
 </table>
 
 <br/>
-Lost an account with 1,600+ contributions. Kept the skills, rebuilt the streak.
+Lost an account with 1,700+ contributions. Kept the skills, rebuilt the streak.
 
 Building systems that survive past the demo — autonomous agentic RAG architectures, deterministic multi-agent synthesizers, and high-throughput ranking pipelines.
 
